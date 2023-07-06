@@ -1,8 +1,17 @@
 ## Teil der Serie: Objekte des Badisches Landesmuseums
 
-[Programme instructions](https://nfdi4culture.github.io/class-ADA-CP-pipeline/)
+Author - Memo Loran Tuku
 
-2023-07-04 v1.0
+ORCID - https://orcid.org/0009-0006-3534-6580
+
+Date - July 04 , 2023
+
+DOI - https://doi.org/10.5281/zenodo.7872070
+
+Repository URL - https://github.com/mloran/catalogue-003
+
+
+
 
 Willkommen auf der Startseite der digitalen Plattform des Badischen Landmuseums! Tauchen Sie ein in die faszinierende Welt der Geschichte und erkunden Sie unsere Sammlung von Objekten aus vergangenen Zeiten.
 
