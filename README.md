@@ -6,7 +6,6 @@
 
 2023-03-17 v1.0
 
-![Italian Painting](6780765/Cupido.jpg)
 
 Dieses SPARQL-Query wird verwendet, um eine Liste von Objekten abzurufen, die von dem Badischen Landesmuseum ausgestelt werden.
 
